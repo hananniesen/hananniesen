@@ -17,6 +17,14 @@
 
 ---
 
+> Conducting research with the <a href="https://csumb.edu/biolocean/">Biological Oceanography Lab</a> at California 
+> State University, Monterey Bay, I use my platform as an upcoming marine scientist to empower students with
+> learning disabilities, like me, to participate in the sciences. Through my work as a marine engineer, I create
+> inexpensive and easy-to-use oceanographic technology that bridges the knowledge gap between academia and the
+> greater public. This way, the discoveries researchers make in the lab can be implemented both skillfully and
+> effectively by environmental policy makers and management around the world.
+
+<br>  
 
 <div>
   <a href="https://www.linkedin.com/in/anne-hansen/"> 
