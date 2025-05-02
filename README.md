@@ -1,5 +1,7 @@
+
+<img src="https://github.com/hananniesen/hananniesen/blob/main/collage.png">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=4169E1&text=Anne%20Hansen&fontColor=FFFFFF&fontSize=70&desc=Physical%20Oceanography%20and%20Marine%20Engineering%20Researcher&fontAlignY=40&section=header&fontAlign=50&descAlign=50&animation=fadeIn&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=4169E1&text=Anne%20Hansen&fontColor=FFFFFF&fontSize=70&desc=Physical%20Oceanography%20and%20Marine%20Engineering%20Researcher&fontAlignY=30&section=header&fontAlign=50&descAlign=50&animation=fadeIn&descAlignY=50"/>
 </p>
 
 ---
@@ -36,8 +38,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4169E1&fontColor=FFFFFF&fontSize=70&fontAlignY=40&section=footer&fontAlign=50&descAlign=50&animation=fadeIn&descAlignY=55"/>
 </p>
-
-<img src="https://github.com/hananniesen/hananniesen/blob/main/collage.png">
 
 <!--
 **hananniesen/hananniesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
