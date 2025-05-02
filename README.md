@@ -16,9 +16,7 @@
 ---
 
 
-
 <div>
-  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  
   <a href="https://www.linkedin.com/in/anne-hansen/"> 
     <img src="https://github.com/hananniesen/hananniesen/blob/main/linkedin-brands.svg" width="50" height="50">
   </a>
@@ -34,6 +32,8 @@
     <img src="https://github.com/hananniesen/hananniesen/blob/main/orcid-brands.svg" width="50" height="50">
   </a>
 </div>
+
+<img src="https://github.com/hananniesen/hananniesen/blob/main/collage.png">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4169E1&fontColor=FFFFFF&fontSize=70&fontAlignY=40&section=footer&fontAlign=50&descAlign=50&animation=fadeIn&descAlignY=55"/>
