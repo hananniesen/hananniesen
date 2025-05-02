@@ -33,11 +33,11 @@
   </a>
 </div>
 
-<img src="https://github.com/hananniesen/hananniesen/blob/main/collage.png">
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4169E1&fontColor=FFFFFF&fontSize=70&fontAlignY=40&section=footer&fontAlign=50&descAlign=50&animation=fadeIn&descAlignY=55"/>
 </p>
+
+<img src="https://github.com/hananniesen/hananniesen/blob/main/collage.png">
 
 <!--
 **hananniesen/hananniesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
