@@ -1,5 +1,5 @@
 
-<img src="https://github.com/hananniesen/hananniesen/blob/main/collage.png">
+<img src="https://github.com/hananniesen/hananniesen/blob/main/banner.png">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=4169E1&text=Anne%20Hansen&fontColor=FFFFFF&fontSize=70&desc=Physical%20Oceanography%20and%20Marine%20Engineering%20Researcher&fontAlignY=35&section=header&fontAlign=50&descAlign=50&animation=fadeIn&descAlignY=55"/>
 </p>
